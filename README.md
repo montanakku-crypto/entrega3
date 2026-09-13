@@ -13,4 +13,4 @@ Projeto criado para atender à entrega 3 da disciplina.
 **Como usar**:
 - Abra `index.html` localmente ou use GitHub Pages (o repositório pode ser publicado em https://<usuario>.github.io/entrega3/)
 
-**Autor**: Carolina (entrega feita com auxílio do assistente)
+**Autor**: Carolina
